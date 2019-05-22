@@ -1,5 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Mason's Food Blog"
-theme = "hugo-theme-minos"
-publishDir = "docs"
