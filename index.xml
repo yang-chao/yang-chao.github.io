@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mason&#39;s Food Blog</title>
+    <title>Mason&#39;s Blog</title>
     <link>https://yang-chao.github.io/</link>
-    <description>Recent content on Mason&#39;s Food Blog</description>
+    <description>Recent content on Mason&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Wed, 22 May 2019 18:01:52 +0800</lastBuildDate>
     
 	<atom:link href="https://yang-chao.github.io/index.xml" rel="self" type="application/rss+xml" />
